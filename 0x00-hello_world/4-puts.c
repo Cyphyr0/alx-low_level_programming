@@ -1,8 +1,10 @@
 #include<stdio.h>
 /**
- * main – start - Entry point
+ * main - Entry point
  *
- * Return: Always 0 (means Success)
+ * Descripition: A C program that prints with put function
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

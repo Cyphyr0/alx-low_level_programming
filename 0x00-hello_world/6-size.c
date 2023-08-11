@@ -1,10 +1,10 @@
 #include<stdio.h>
 /**
-* main – start - Entry point
+* main - Entry point
 *
-* Description: A C program that print the size of various types using sizeof
+* Description: C program that prints the size of various types using sizeof
 *
-* Return: Always 0 (means Success)
+* Return: Always 0 ( Success)
 */
 int main(void)
 {
